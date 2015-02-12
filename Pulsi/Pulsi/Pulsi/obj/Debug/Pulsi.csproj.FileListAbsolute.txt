@@ -1,0 +1,126 @@
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\bin\Debug\Pulsi.exe.config
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\bin\Debug\Pulsi.exe.config
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\bin\Debug\Pulsi.exe
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\bin\Debug\Pulsi.pdb
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.csprojResolveAssemblyReference.cache
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\MainWindow.baml
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\App.g.cs
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi_MarkupCompile.cache
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.g.resources
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.Properties.Resources.resources
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.csproj.GenerateResource.Cache
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.exe
+C:\Users\Kevin van der Burg\Google Drive\School\Fontys\Periode 2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.pdb
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.exe
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.pdb
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\bin\Debug\Pulsi.exe
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\bin\Debug\Pulsi.pdb
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.csprojResolveAssemblyReference.cache
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\MainWindow.baml
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\MainWindow.g.cs
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\App.g.cs
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi_MarkupCompile.cache
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.g.resources
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.Properties.Resources.resources
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi.csproj.GenerateResource.Cache
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\windowLogIn.baml
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\windowLogIn.g.cs
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\WindowMeasurements.baml
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\WindowMeasurements.g.cs
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\bin\Debug\Pulsi.accdb
+C:\Users\milton\Google Drive\FONTYS\P2\PT12 - Proftaak - B# Health\Software Engineering\Pulsi\Pulsi\obj\Debug\Pulsi_Content.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\bin\Debug\Pulsi.exe.config
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi.exe
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi.pdb
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\bin\Debug\Pulsi.accdb
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\bin\Debug\Pulsi.exe
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\bin\Debug\Pulsi.pdb
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi.csprojResolveAssemblyReference.cache
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\MainWindow.baml
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\WindowLogIn.baml
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\WindowMeasurements.baml
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\MainWindow.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\WindowLogIn.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\WindowMeasurements.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\App.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi_Content.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi_MarkupCompile.cache
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi.g.resources
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi.Properties.Resources.resources
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\C#\Pulsi\Pulsi\obj\Debug\Pulsi.csproj.GenerateResource.Cache
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\bin\Debug\Pulsi.exe.config
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi.exe
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi.pdb
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\bin\Debug\Pulsi.accdb
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\bin\Debug\Pulsi.exe
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\bin\Debug\Pulsi.pdb
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi.csprojResolveAssemblyReference.cache
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\MainWindow.baml
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\WindowLogIn.baml
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\WindowMeasurements.baml
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\MainWindow.g.cs
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\WindowLogIn.g.cs
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\WindowMeasurements.g.cs
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\App.g.cs
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi_Content.g.cs
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi_MarkupCompile.cache
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi.g.resources
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi.Properties.Resources.resources
+C:\Users\milton\Desktop\Pulsi-2015-01-20\Pulsi\Pulsi\obj\Debug\Pulsi.csproj.GenerateResource.Cache
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\bin\Debug\Pulsi.exe.config
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi.exe
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi.pdb
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\bin\Debug\Pulsi.accdb
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\bin\Debug\Pulsi.exe
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\bin\Debug\Pulsi.pdb
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi.csprojResolveAssemblyReference.cache
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\MainWindow.baml
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\WindowLogIn.baml
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\WindowMeasurements.baml
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\MainWindow.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\WindowLogIn.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\WindowMeasurements.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\App.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi_Content.g.cs
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi_MarkupCompile.cache
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi.g.resources
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi.Properties.Resources.resources
+C:\Users\Timothy\Mijn Tekst bestanden\Fontys\P2\P2 - Proftaak\Pulsi\C#\Pulsi\Pulsi\obj\Debug\Pulsi.csproj.GenerateResource.Cache
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\bin\Debug\Pulsi.exe.config
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\Pulsi.exe
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\Pulsi.pdb
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\WindowData.baml
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\WindowLogIn.baml
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\WindowMeasurements.baml
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\WindowData.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\WindowLogIn.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\WindowMeasurements.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\App.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\Pulsi_MarkupCompile.cache
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\Pulsi.g.resources
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\Pulsi.Properties.Resources.resources
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\Pulsi.csproj.GenerateResource.Cache
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\bin\Debug\Pulsi.exe
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\bin\Debug\Pulsi.pdb
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\obj\Debug\Pulsi_Content.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\Pulsi\bin\Debug\Pulsi.accdb
+C:\Users\milton\Desktop\Pulsi\Pulsi\bin\Debug\Pulsi.exe.config
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi.exe
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi.pdb
+C:\Users\milton\Desktop\Pulsi\Pulsi\bin\Debug\Pulsi.exe
+C:\Users\milton\Desktop\Pulsi\Pulsi\bin\Debug\Pulsi.pdb
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\WindowData.baml
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\WindowLogIn.baml
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\WindowMeasurements.baml
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\WindowData.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\WindowLogIn.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\WindowMeasurements.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\App.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi_MarkupCompile.cache
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi.g.resources
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi.Properties.Resources.resources
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi.csproj.GenerateResource.Cache
+C:\Users\milton\Desktop\Pulsi\Pulsi\bin\Debug\Pulsi.accdb
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi_Content.g.cs
+C:\Users\milton\Desktop\Pulsi\Pulsi\obj\Debug\Pulsi.csprojResolveAssemblyReference.cache
